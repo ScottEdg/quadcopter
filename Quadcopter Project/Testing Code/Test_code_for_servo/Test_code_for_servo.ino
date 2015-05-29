@@ -1,5 +1,5 @@
 /*
-  This code is to test the Arduino Pro Mini from Sparkfun.com on a 2 ESCs (Electronic Speed Controller) to power 2 or more electric motors spinning in opposite directions for a quadcopter project.
+  This code is to test the Arduino Pro Mini from Sparkfun.com on a 2 ESCs (Electronic Speed Controller) to power 2 electric motors spinning in opposite directions for a quadcopter project.
   This code is for testing purposes only and was copied from https://dronesandrovs.wordpress.com/2012/11/24/how-to-control-a-brushless-motor-esc-with-arduino/
 */
 
